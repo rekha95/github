@@ -1,3 +1,4 @@
-void main(){
-	printf("new c-code")
+void main()
+{
+	printf(" c-code")
 }
