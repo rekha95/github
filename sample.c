@@ -1,4 +1,5 @@
-jdfsguygeyugyer
-.djbbgghj
-jdsfh
+void main()
+{
+ 	printf("hello world")
+}
 
