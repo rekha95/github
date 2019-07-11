@@ -1,2 +1,2 @@
 # github
-this is for tutorial purpose created by rekha
+this is a dem repository created by rekha
