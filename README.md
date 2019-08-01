@@ -1,2 +1,3 @@
 # github
-this is a dem repository created by rekha
+this is a demo repository created by rekha
+
